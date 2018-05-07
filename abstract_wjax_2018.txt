@@ -1,7 +1,8 @@
 
-Auf Basis der Java Virtual Machine hat sich in den letzten 20 Jahren eine große Zahl an alternativen Programmiersprachen
-entwickelt. Diese Sprachen haben jeweils ihre eigene Syntax, werden aber in JVM-Bytecode übersetzt.
-Damit können sie auf der ausgereiften und vielfach optimierten JVM ausgeführt werden.
+Auf Basis der Java Virtual Machine hat sich in den letzten 20 Jahren eine große Zahl
+an alternativen Programmiersprachen mit eigener Syntax entwickelt.
+Sie werden zu JVM-Bytecode kompiliert
+und können damit auf der ausgereiften und vielfach optimierten JVM ausgeführt werden.
 In diesem Vortrag wollen wir zwei populäre derartige Sprachen betrachten und miteinander vergleichen:
 Groovy und Kotlin.
 
