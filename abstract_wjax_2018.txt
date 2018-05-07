@@ -5,28 +5,25 @@ Damit können sie auf der ausgereiften und vielfach optimierten JVM ausgeführt 
 In diesem Vortrag wollen wir zwei populäre derartige Sprachen betrachten und miteinander vergleichen:
 Groovy und Kotlin.
 
-Groovy entstand bereits 2003 und hatte ursprünglich zum Ziel,
-eine elegantere Syntax mit dynamischen Elementen zu verbinden.
-Seit einigen Jahren wird Groovy unter dem Dach der Apache Software Foundation weiterentwickelt.
-Das Pojekt Kotlin wurde 2011 erstmalig vorgestellt, im Jahr 2016 erschien die Version 1.0.
-Die Sprache wird federführend von JetBrains entwickelt; vielen Java-Entwicklern bekannt als Hersteller der IDE Intellij.
-JetBrains geht mit Kotlin typische Java Probleme an und optimiert die Sprache auf die Anforderungen der Industrie.
+Apache Groovy entstand bereits 2003 mit dem Ziel, eine elegantere Syntax mit dynamischen Elementen zu verbinden.
+Kotlin wurde 2011 erstmalig vorgestellt, im Jahr 2016 erschien die Version 1.0.
+Die Sprache wird federführend vom Tool-Hersteller JetBrains entwickelt und addressiert ebenfalls typische Java-Probleme.
 
 Beide Sprachen haben viele Sprachfeatures, die über die Möglichkeiten von Java hinausgehen.
-Hier gibt es erstaunlich viele Gemeinsamkeiten zwischen beiden Sprachen,
+Hier gibt es erstaunlich viele Gemeinsamkeiten,
 aber durchaus auch signifikante Unterschiede.
-Im Einzelnen wollen wir folgende Themen vergleichend betrachten:
+Im Einzelnen wollen wir folgende Themen betrachten:
 
 - Typisierung und Typinferenz, Nullsicherheit
 - Exceptions
 - Delegation, Vererbung und Extensions
 - Properties und Data-Klassen
 - benannte und Default-Argumente
-- (Literale) Syntax für Listen und Maps
+- Collections-Syntax
 - Operator-Overloading
-- Funktionale Programmierung, insbesondere Higher Order-Functions und Komposition
+- Funktionale Programmierung, insbesondere Higher Order-Functions
 
 
-Beim Vergleich werden wir natürlich auch immer wieder einen Blick in Richtung der Muttersprache Java werfen.
-Ziel des Vortrags ist es, die beiden Sprachen insbesondere mit Blick auf die angebotenen Sprachkonstrukte kennenzulernen.
+Beim Vergleich werden wir immer wieder einen Blick in Richtung der Muttersprache Java werfen.
+Ziel des Vortrags ist es, beiden Sprachen insbesondere mit Blick auf die angebotenen Sprachkonstrukte kennenzulernen.
 Vielleicht lohnt es ist ja, eine der beiden im nächsten Projekt einzusetzen.
