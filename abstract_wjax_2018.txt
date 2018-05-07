@@ -27,30 +27,26 @@ Wir betrachten in diesem Vortrag Themen von allgemeinem Interesse wie Lizenzmode
 IDE-Support und mögliche Anwendungsgebiete (Android!).
 Kotlin und Groovy spielen jeweils auch eine besondere Rolle bei Build Tools wie Gradle.
 
-
 Beiden Sprachen ist gemein,
 dass sie viele Sprachfeatures haben, die über die Möglichkeiten von Java hinausgehen.
 Hier gibt es erstaunlich viele Gemeinsamkeiten zwischen beiden Sprachen,
 aber durchaus auch signifikante Unterschiede.
 Im Einzelnen wollen wir folgende Themen vergleichend betrachten:
 
-- checked Exceptions
-- Typisierung und Typinferenz, primitive Typen
-- delegation
-- Properties
-- Data-Klassen
-- Vererbung
-- Erweiterung existierende Klassen, sogar von JDK-Klassen
-- Nullsicherheit
+- Checked Exceptions
+- Typisierung und Typinferenz, Nullsicherheit, primitive Typen
+- Delegation, Vererbung und Erweiterung existierende Klassen, sogar von JDK-Klassen
+- Properties und Data-Klassen
 - Funktionale Programmierung, insbesondere Higher Order-Functions und Komposition
 - benannte und Default-Argumente
 - (Literale) Syntax für Listen und Maps
 - Operator Overloading
 
-Immer wieder einen Blick in Richtung der Muttersprache Java werfen
+Beim Vergleich werden wir natürlich auch immer wieder einen Blick in Richtung der Muttersprache Java werfen.
+Ziel des Vortrags ist es, die beiden Sprachen insbesondere mit Blick auf die angebotenen Sprachkonstrukte kennenzulernen.
+Vielleicht lohnt es ist ja, eine der beiden im nächsten Projekt einzusetzen.
 
-
-// Tail Recursion, Coroutines...
+// wohl eher weglassen ??  Tail Recursion, Coroutines...
 
 
 
