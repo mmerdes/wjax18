@@ -15,16 +15,17 @@ Damit können sie auf der ausgereiften und vielfach optimierten Java Virtual Mac
 In diesem Vortrag wollen wir zwei populäre derartige Sprachen betrachten und miteinander vergleichen:
 Groovy und Kotlin.
 
-Groovy wurde bereits ab 2003 entwickelt und hatte zum Ziel eine elegantere Syntax mit aus Ruby bekannten Elementen zu verbinden.
-Seit xxxx wird Groovy unter dem Dach der Apache Software Foundation entwickelt,
+Groovy wurde bereits ab 2003 entwickelt und hatte ursprünglich zum Ziel eine elegantere Syntax mit dynamischen Elementen zu verbinden.
+Seit einigen Jahren wird Groovy unter dem Dach der Apache Software Foundation entwickelt,
 was zu einem weiteren Anstieg der Downloadzahlen geführt hat.
 
-Kotlin wird von Jetbrains xxx entwickelt, vielen Java-Entwicklern bekannt als Hersteller der IDE Intellij.
+Das Pojekt Kotlin wurde 2011 erstmalig vorgestellt, im Jahr 2016 erschien die Version 1.0.
+Die Sprache wird von JetBrains entwickelt, vielen Java-Entwicklern bekannt als Hersteller der IDE Intellij.
+Auch bei Kotlin wurden viele der im klassischen Java gefürchteten Pain Points angegangen.
 
-- Lizenzen und Java-Interoperabilität
-- ide-support
-- build-tools wie gradle
-- Anwendungsgebiete (Android!)
+Wir betrachten in diesem Vortrag Themen von allgemeinem Interesse wie Lizenzmodell und Java-Interoperabilität,
+IDE-Support und mögliche Anwendungsgebiete (Android!).
+Kotlin und Groovy spielen jeweils auch eine besondere Rolle bei Build Tools wie Gradle.
 
 
 Beiden Sprachen ist gemein,
