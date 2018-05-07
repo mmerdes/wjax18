@@ -26,7 +26,7 @@ aber durchaus auch signifikante Unterschiede.
 Im Einzelnen wollen wir folgende Themen vergleichend betrachten:
 
 - Typisierung und Typinferenz, Nullsicherheit, primitive Typen
-- Checked Exceptions
+- Handhabung von Exceptions
 - Delegation, Vererbung und Erweiterung existierender Klassen, sogar von JDK-Klassen
 - Properties und Data-Klassen
 - benannte und Default-Argumente
