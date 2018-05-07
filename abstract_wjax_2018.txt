@@ -25,5 +25,5 @@ Im Einzelnen wollen wir folgende Themen betrachten:
 
 
 Beim Vergleich werden wir immer wieder einen Blick in Richtung der Muttersprache Java werfen.
-Ziel des Vortrags ist es, beiden Sprachen insbesondere mit Blick auf die angebotenen Sprachkonstrukte kennenzulernen.
+Ziel des Vortrags ist es, zwischen beiden Sprachen anhand der angebotenen Sprachkonstrukte abzuwägen zu können.
 Vielleicht lohnt es ist ja, eine der beiden im nächsten Projekt einzusetzen.
