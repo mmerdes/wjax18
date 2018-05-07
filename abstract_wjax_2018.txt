@@ -1,9 +1,4 @@
 
-ACHTUNG: work in progress - bitte noch nicht kommentieren/editieren!!
-ACHTUNG: work in progress - bitte noch nicht kommentieren/editieren!!
-ACHTUNG: work in progress - bitte noch nicht kommentieren/editieren!!
-
-
 Spieglein, Spieglein an der Wand...
 Ein Vergleich der beiden JVM-Sprachen Groovy und Kotlin
 
@@ -11,43 +6,38 @@ Ein Vergleich der beiden JVM-Sprachen Groovy und Kotlin
 Auf Basis der Java Virtual Machine hat sich in den letzten 20 Jahren eine große Zahl an alternativen Programmiersprachen
 entwickelt. Diese Sprachen haben jeweils ihre eigene Syntax, werden aber in JVM-Bytecode übersetzt.
 Damit können sie auf der ausgereiften und vielfach optimierten Java Virtual Machine ausgeführt werden.
-
 In diesem Vortrag wollen wir zwei populäre derartige Sprachen betrachten und miteinander vergleichen:
 Groovy und Kotlin.
 
 Groovy wurde bereits ab 2003 entwickelt und hatte ursprünglich zum Ziel eine elegantere Syntax mit dynamischen Elementen zu verbinden.
 Seit einigen Jahren wird Groovy unter dem Dach der Apache Software Foundation entwickelt,
 was zu einem weiteren Anstieg der Downloadzahlen geführt hat.
-
 Das Pojekt Kotlin wurde 2011 erstmalig vorgestellt, im Jahr 2016 erschien die Version 1.0.
-Die Sprache wird von JetBrains entwickelt, vielen Java-Entwicklern bekannt als Hersteller der IDE Intellij.
+Die Sprache wird federführend von JetBrains entwickelt; vielen Java-Entwicklern bekannt als Hersteller der IDE Intellij.
 Auch bei Kotlin wurden viele der im klassischen Java gefürchteten Pain Points angegangen.
 
 Wir betrachten in diesem Vortrag Themen von allgemeinem Interesse wie Lizenzmodell und Java-Interoperabilität,
-IDE-Support und mögliche Anwendungsgebiete (Android!).
+IDE-Support und mögliche Anwendungsgebiete von Backendsystemen über DSLs bis zu nativer Programmierung unter Android.
 Kotlin und Groovy spielen jeweils auch eine besondere Rolle bei Build Tools wie Gradle.
 
-Beiden Sprachen ist gemein,
-dass sie viele Sprachfeatures haben, die über die Möglichkeiten von Java hinausgehen.
+Beide Sprachen haben viele Sprachfeatures, die über die Möglichkeiten von Java oft deutlich hinausgehen.
 Hier gibt es erstaunlich viele Gemeinsamkeiten zwischen beiden Sprachen,
 aber durchaus auch signifikante Unterschiede.
 Im Einzelnen wollen wir folgende Themen vergleichend betrachten:
 
-- Checked Exceptions
 - Typisierung und Typinferenz, Nullsicherheit, primitive Typen
-- Delegation, Vererbung und Erweiterung existierende Klassen, sogar von JDK-Klassen
+- Checked Exceptions
+- Delegation, Vererbung und Erweiterung existierender Klassen, sogar von JDK-Klassen
 - Properties und Data-Klassen
-- Funktionale Programmierung, insbesondere Higher Order-Functions und Komposition
 - benannte und Default-Argumente
 - (Literale) Syntax für Listen und Maps
 - Operator Overloading
+- Funktionale Programmierung, insbesondere Higher Order-Functions und Komposition
 
 Beim Vergleich werden wir natürlich auch immer wieder einen Blick in Richtung der Muttersprache Java werfen.
 Ziel des Vortrags ist es, die beiden Sprachen insbesondere mit Blick auf die angebotenen Sprachkonstrukte kennenzulernen.
 Vielleicht lohnt es ist ja, eine der beiden im nächsten Projekt einzusetzen.
 
+
 // wohl eher weglassen ??  Tail Recursion, Coroutines...
-
-
-
 
